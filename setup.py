@@ -16,5 +16,9 @@ setup(
 		"Topic :: Software Engineering Course",
 	],
 	license="MIT",
+	install_requires = [
+		'numpy',
+		'django'
+	]
       )
 
