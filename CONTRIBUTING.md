@@ -1,8 +1,8 @@
-#Contributing to SENG20-G19
+# Contributing to SENG20-G19
 
 These are the set of guidelines of how the users can contribute to SENG20-G19!
 
-##Code of Conduct
+## Code of Conduct
 
 By participating, you are expected to uphold this code. Please report unacceptable behavior to nkashya@ncsu.edu.
 
@@ -12,7 +12,7 @@ Prerequistes required before starting this project
 2. Must be a student in Software Engineering Course in Fall 2020
 3. Have proficiency in Python or Java
 
-##How can i Contribute -
+## How can i Contribute -
  
 ### Reporting Bugs
 
@@ -28,7 +28,7 @@ Determine which repository the problem should be reported in.
 
 Perform a cursory search to see if the problem has already been reported. 
 
-##How Do I Submit A (Good) Bug Report?
+## How Do I Submit A (Good) Bug Report?
 
 Use a clear and descriptive title for the issue to identify the problem.
 
@@ -44,7 +44,7 @@ Include screenshots and animated GIFs which show you following the described ste
 
 If the problem is related to performance or memory, include a CPU profile capture with your report.
 
-##Pull Requests
+## Pull Requests
 
 The process described here has several goals:
 
