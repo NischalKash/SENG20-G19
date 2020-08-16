@@ -1,1 +1,18 @@
+language: python
+python:
+  - 3.6
+  - 2.7
+script: 
+  - pytest
 
+notifications:
+  email:
+    recipients: 
+      - mvijaya2@ncsu.edu
+      - nkashya@ncsu.edu
+      - sbangal2@ncsu.edu
+      - nrpandes@ncsu.edu
+      - arames22@ncsu.edu
+    
+    on_success: never
+    on_failure: always
