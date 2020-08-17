@@ -6,3 +6,6 @@ def test_answer():
 
 def test_new_answer():
     assert inc(4) == 5
+
+def test_solution():
+    assert inc(9) == 10
