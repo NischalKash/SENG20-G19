@@ -13,7 +13,7 @@ ZENODO DOI Badge
 
 Mangalnathan Vijayagopal (mvijaya2)
 
-Nischal Badarinath Kashyap (nkashya2)
+Nischal Badarinath Kashyap (nkashya)
 
 Amogh Rameshappa Devapura (arames22)
 
